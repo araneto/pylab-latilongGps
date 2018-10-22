@@ -1,3 +1,6 @@
+__author__ = "Alberto Andrade"
+__email__ = "araneto.ctba@gmail.com"
+
 import geocoder
 import time
 import pandas as pd
