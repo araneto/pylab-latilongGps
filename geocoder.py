@@ -18,7 +18,7 @@ with open('adresses.csv') as x:
             adresses.append(addr)
             coordLat.append(lat)
             coordLong.append(long)
-            count -= 1
+            geoDailyLimit -= 1
         else:
             pass
     x.close()
